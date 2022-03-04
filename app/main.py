@@ -1,5 +1,4 @@
 from random import randrange
-from turtle import pos
 from typing import Optional, List
 from fastapi import Depends, FastAPI, Response, HTTPException, status
 from fastapi.middleware.cors import CORSMiddleware
